@@ -18,7 +18,7 @@ An interactive web-based visualization tool to demonstrate the operation of two 
 
 ## 🗂 Project Structure
 
-.
+.  
 ├── index.html # Main HTML structure and layout  
 ├── styles.css # Theme, layout, and visual styling  
 └── script.js # Functionality and logic for animation & algorithms
