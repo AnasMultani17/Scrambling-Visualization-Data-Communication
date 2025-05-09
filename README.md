@@ -3,8 +3,10 @@
 An interactive web-based visualization tool to demonstrate the operation of two widely used line coding schemes: **B8ZS (Bipolar with 8-Zero Substitution)** and **HDB3 (High-Density Bipolar 3 Zeros)**. Users can input a binary bitstream and observe how scrambling is applied and visualized in real-time on a canvas.
 
 
-Use this link to take demo : https://scrambling-visualization-data-communication-a52tscfdn.vercel.app/
+
 ---
+
+Use this link to take demo : https://scrambling-visualization-data-communication-a52tscfdn.vercel.app
 
 ## 🔍 Features
 
